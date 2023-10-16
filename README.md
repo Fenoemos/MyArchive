@@ -40,3 +40,5 @@ skills <- list(Google Sheets, SQL, R programming, Data Transformation,
   - [Public API](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BPython%20projects%5D/Public_api.ipynb)
   - [Web scraping](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BPython%20projects%5D/Web_scraping.ipynb)
   - [[Pandas Foundation] Final Project - Analyzing Sales Data](https://datalore.jetbrains.com/report/static/T60GXEGjWtObUFeMZGAHDq/quJAdx1zlNL9wtiOGqjL7K)
++ Data Visualization
+  - [[Looker Studio] Superstore Sales Report](https://lookerstudio.google.com/u/0/reporting/7b655c2f-6409-4452-9d62-9591eb6765dc/page/7KdfD/edit)
