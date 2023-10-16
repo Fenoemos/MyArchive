@@ -5,7 +5,14 @@ This is a place where my noticeable long-life learning will be stored.
 know_me_better = {
   "greeting": "Hello",
   "myaka": "Fenoemos",
+  "my_fav_lang": "R"
 };
+```
+From the bootcamp, I have expanded my knowledge in 10 essential topics below.
+```{r}
+skills <- list(Google Sheets, SQL, R programming, Data Transformation,
+              Data Visualization, Statistics, Essential Machine Learning,
+              Python, Looker Studio, Tableau Public)
 ```
 ## Content
 ### Capstone project from Coursera
