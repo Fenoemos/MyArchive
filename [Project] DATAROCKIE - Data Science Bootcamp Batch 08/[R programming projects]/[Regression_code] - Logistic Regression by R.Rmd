@@ -1,0 +1,207 @@
+---
+title: "Document - Logistic Regression by R"
+author: "Phattharachai Maichin"
+date: "2023-09-19"
+output:
+  html_document: 
+    df_print: paged
+  pdf_document: default
+subtitle: Variable Relationship from titanic_train dataset
+---
+> **Before start**
+
+This document I created to cover how to use "R programming" to manipulate and analyst data to find a relationship (by using logistic regression) among variables to predict titanic passagers survived or not.
+
+**Introduction to Machine Learning: **
+I have learnt about Basic Machine Learning Workflow and I summarized it in the picture below to demonstrate a basic machine learning workflow.
+
+```{r echo=FALSE}
+# Simpify of ML workflow
+# FullData --(clean)--> availableData --(split)--> trainData <--(retrain)
+#                           |                         |           |
+#                        (split)                      |-----------|
+#                           |                         |
+#                           v                         v                              
+#                       testData --(Test model)--> Score (Prediction model)
+#                                                     |
+#                                                     |
+#                                                     v
+#                                                 Evaluate
+
+# Data split may be 70/30 or 80/20 or other based on objective
+
+## Turn into flowchart with R by using "grViz()" function in library(DiagrammeR)
+library(DiagrammeR)
+workflow <- grViz("digraph flowchart {
+            # node definitions with substituted label text
+            node [fontname = Helvetica, shape = rectangle]        
+            tab1 [label = '@@1']
+            tab2 [label = '@@2']
+            tab3 [label = '@@3']
+            tab4 [label = '@@4']
+            tab5 [label = '@@5']
+            tab6 [label = '@@6']
+            tab7 [label = '@@7']
+
+            # edge definitions with the node IDs
+            tab1 -> tab2;
+            tab3 -> tab7 -> tab3;
+            tab2 -> tab3 -> tab5;
+            tab2 -> tab4 -> tab5;
+            tab5 -> tab6
+            }
+
+            [1]: 'FullData'
+            [2]: 'availableData (Clean data)'
+            [3]: 'trainData (Split)'
+            [4]: 'testData (Split)'
+            [5]: 'Score (Prediction model)'
+            [6]: 'Evaluate'
+            [7]: 'trainData (Retrain)'
+            ")
+
+(workflow)
+```
+
+### Install packages
+Packages have been used in this project are "tidyverse" for manage data, "caret" for analyst data, and "titanic" where the example data is located.
+```{r include=FALSE}
+# install and call library
+# install.packages("tidyverse"); install.packages("caret"); install.packages("titanic")
+library(tidyverse); library(caret); library(titanic)
+```
+### Preview dataset
+There are many ways to preview dataset such as View(), head(), glimpse(), and other.
+```{r}
+# But first, let load dataset into a variable for future use.
+data <- titanic_train
+
+# Preview dataset - View(data), head(data), glimpse(data)
+glimpse(data)
+```
+ 
+Variables and its description showed in this table.
+ 
+ Variable | Description 
+----------|------------
+ PassengerId | Unique id of each passenger 
+ Survived | Outcome of survival (0 = No; 1 = Yes) 
+ Pclass | Socio-economic class (1 = Upper class; 2 = Middle class; 3 = Lower class)
+ Name | Name of passenger
+ Sex | Sex of the passenger 
+ Age | Age of the passenger (Some entries contain NaN)
+ SibSp | Number of siblings and spouses of the passenger aboard
+ Parch | Number of parents and children of the passenger aboard 
+ Ticket | Ticket number of the passenger 
+ Fare | Fare paid by the passenger 
+ Cabin | Cabin number of the passenger (Some entries contain NaN) 
+ Embarked | Port of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton) 
+[Sorce: Titanic Dataset](https://indrayantom.github.io/titanic_guided/)
+
+### Check data integrity
+by searching missing values is an important step for data integrity. 
+```{r}
+# For data integrity, I have created a function to show if there are missing value in dataset.
+data_inegrity <- function(dataset){
+  percent_existData <- dataset %>% 
+                       complete.cases() %>%
+                       mean()*100
+  nrowoffulldata <<- nrow(dataset)
+  ## write the result
+  cat(paste("Original data row:", nrowoffulldata, "\n"))
+  cat(paste("Percent exist data:", as.character(percent_existData), "% \n"))
+  if (percent_existData == 100){
+  print("Percent exist data is 100%, the data is ready")
+  } else {
+  print("Percent exist data is not 100%, need to clean data")
+  }
+}
+# And (if necessary) a function to clean data by omit NULL in dataset.
+## If it need to clean data first, there are many option to clean like 
+## drop, omit, replace, and other, So in this document 'omit' method 
+## will be applied to the data set.
+cleanbyomit <- function(dataset){  
+  cleanData <<- dataset %>%         
+                na.omit()
+  nrowoffulldata <<- dataset %>%  ## used to update nrow of full data after omit
+                na.omit() %>%
+                nrow()
+  cat(paste("Total data rows before clean:", nrow(dataset),
+            "\nSo, Remaining exist data rows:", as.character(nrowoffulldata)))
+}
+
+# Call function data_inegrity
+data_inegrity(data) 
+
+# Call function cleanbyomit
+cleanbyomit(data)
+
+# Preview cleandata again
+glimpse(cleanData)
+```
+
+### Split data into train_data and test_data
+```{r}
+# Then, function below is used to split data into train_data and test_data
+## Seed is set to keep the random sampling
+## function need two input 1) Dataset 2) sample size by percent (from 0 - 1)
+split_data <- function(availableData, percent_sample){
+  set.seed(38)
+  id <- sample(nrowoffulldata, size = percent_sample*nrowoffulldata)
+  train_data <<- availableData[id, ]
+  test_data <<- availableData[-id, ]
+}
+
+# call split_data(cleanData, 0.7) function to use cleanData that split 70% to train and 30% to test set
+split_data(cleanData, 0.7)
+
+# Just to see split data
+(train_data); (test_data)
+```
+### Train Model
+With in "caret", the "glm" is used to fit generalized linear models and "logistic regression" is a part of it.
+
+Logistic regression (AKA binary classification) have been used in this study because the model will predict binary outcome that is "Survived" and its values (0 for Not survived and 1 for survived).
+
+There are many factor that can lead to survive such as Pclass, Sex, Age, SibSp, Parch and other. This model have taken variable above into account.
+```{r}
+logistic_regression <- glm(Survived ~ Pclass + Sex + Age + SibSp + Parch, data = train_data, family = "binomial")
+
+(logistic_regression)
+
+#summary(model) is used to inspect model
+summary(logistic_regression)
+```
+As see from the summary, Number of parents and children of the passenger aboard (Parch) did not have statistics significance within the model due to P-value 0.85.
+
+### Test Model (AKA prediction)
+Prediction is done by using probability from type = "response".
+Then, "ifelse" is used to check conditions to categorize into two group: survived (Prob >= 0.5 showed as 1) and not survived (Prob < 0.5 showed as 0).
+```{r}
+testmodel={} #create empty
+testmodel$prob_survived <- predict(logistic_regression, newdata = test_data, type = "response")
+
+testmodel$pred_survived <- ifelse(testmodel$prob_survived >= 0.5, 1, 0)
+```
+
+### Model Evaluation
+```{r}
+#Create confusion matrix
+confusion <- table(testmodel$pred_survived, test_data$Survived, dnn=c("Predicted", "Actual"))
+(confusion)
+
+cat("Accuracy: ", (confusion[1, 1] + confusion[2, 2]) / sum(confusion), "\n")
+
+cat("Precision: ", confusion[2, 2] / (confusion[2, 1] + confusion[2, 2]), "\n")
+
+Precision <- confusion[2, 2] / (confusion[2, 1] + confusion[2, 2])
+
+cat("Recall: ", confusion[2, 2] / (confusion[1, 2] + confusion[2, 2]), "\n")
+
+Recall <- confusion[2, 2] / (confusion[1, 2] + confusion[2, 2])
+
+cat("F1 score: ", 2*(Precision*Recall)/(Precision+Recall), "\n")
+
+```
+### Summary
+Based on model evaluation: the trained model have a capability to predict practically survived model, which are trained by Pclass, Sex, Age, SibSp, and Parch variables within titanic dataset, upto around 80 % of model accuracy and precision.
