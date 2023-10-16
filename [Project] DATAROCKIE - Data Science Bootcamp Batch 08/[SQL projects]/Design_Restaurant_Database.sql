@@ -102,3 +102,36 @@ SELECT
 FROM sub1
 JOIN sub2
 ON sub1.branchid = sub2.branchid;
+
+/*
+Create ER diagram from https://dbdiagram.io/
+
+Table customers{
+    customerid integer [primary key]
+    name varchar
+    many_people integer
+    branchid integer
+}
+
+Table menus{
+    menusid integer [primary key]
+    name varchar
+    price integer
+}
+
+
+Table branchs{
+    branchid integer [primary key]
+    branchname varchar
+}
+
+Table orders {
+  orderid integer [primary key]
+  customerid integer
+  menusid integer
+  branchid integer
+}
+
+Ref: customers.customerid < orders.customerid
+Ref: menus.menusid < orders.menusid
+Ref: branchs.branchid < orders.branchid */
