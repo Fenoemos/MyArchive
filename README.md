@@ -17,6 +17,7 @@ know_me_better = {
 + R programming
   - [[Foundation programming] Chatbot - OrderPizza](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BR%20programming%20projects%5D/%5BFoundation%20programming%5D%20-%20PizzaBC_Order_Chatbot.r)
   - [[Foundation programming] Rock paper scissors](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BR%20programming%20projects%5D/%5BFoundation%20programming%5D%20-%20Rock_Paper_Scissors_Game.r)
+  - [[Regression] Logistic Regression by R](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BR%20programming%20projects%5D/%5BRegression_document%5D%20-%20Logistic%20Regression%20by%20R.pdf)
   - [[Machine learning] Predict India house price between 2016 and 2017](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BR%20programming%20projects%5D/%5BMachine%20learning_document%5D%20-%20India%20house%20price%20predict.pdf)
  
 + Python
