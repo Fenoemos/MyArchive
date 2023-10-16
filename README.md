@@ -39,3 +39,4 @@ skills <- list(Google Sheets, SQL, R programming, Data Transformation,
   - [Bank Account-Class](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BPython%20projects%5D/Bank_account-Class.ipynb)
   - [Public API](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BPython%20projects%5D/Public_api.ipynb)
   - [Web scraping](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20DATAROCKIE%20-%20Data%20Science%20Bootcamp%20Batch%2008/%5BPython%20projects%5D/Web_scraping.ipynb)
+  - [[Final Project] Analyzing Sales Data](https://datalore.jetbrains.com/report/static/T60GXEGjWtObUFeMZGAHDq/quJAdx1zlNL9wtiOGqjL7K)
