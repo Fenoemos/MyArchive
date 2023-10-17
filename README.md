@@ -1,17 +1,10 @@
-> README
+> **README**
 
-Link-in-bio: https://linktr.ee/phattharachai_m
+This is a place where my noticeable long-life learning will be stored.
+**Link-in-bio:** https://linktr.ee/phattharachai_m
 
-```{python}
-know_me_better = {
-  "greeting": "Hello",
-  "my_aka": "Fenoemos",
-  "purpose": "This is a place where my noticeable long-life learning will be stored",
-  "my_fav_lang": "R"
-};
-```
-From the bootcamp, I have expanded my knowledge in 10 essential topics below.
 ```{r}
+# From the bootcamp, I have expanded my knowledge in 10 essential topics below.
 skills <- list(Google Sheets, SQL, R programming, Data Transformation,
               Data Visualization, Statistics, Essential Machine Learning,
               Python, Looker Studio, Tableau Public)
