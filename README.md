@@ -1,10 +1,10 @@
-# MyArchive
-This is a place where my noticeable long-life learning will be stored.
+> README
 
 ```{python}
 know_me_better = {
   "greeting": "Hello",
-  "myaka": "Fenoemos",
+  "my_aka": "Fenoemos",
+  "purpose": "This is a place where my noticeable long-life learning will be stored",
   "my_fav_lang": "R"
 };
 ```
