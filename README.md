@@ -39,7 +39,7 @@ skills <- list(Google Sheets, SQL, R programming, Data Transformation,
 + Data Visualization
   - [[Looker Studio] Superstore Sales Report](https://lookerstudio.google.com/u/0/reporting/7b655c2f-6409-4452-9d62-9591eb6765dc/page/7KdfD/edit)
 ---
-### Academic publications
+### Academic publications in engineering field
   - [Effect of self-treatment process on properties of natural fiber-reinforced geopolymer composites](https://www.tandfonline.com/doi/abs/10.1080/10426914.2020.1767294)
   - [Stabilized High Clay Content Lateritic Soil Using Cement-FGD Gypsum Mixtures for Road Subbase Applications](https://www.mdpi.com/1996-1944/14/8/1858)
   - [Influence of alkalinity on self-treatment process of natural fiber and properties of its geopolymeric composites](https://www.sciencedirect.com/science/article/abs/pii/S0950061821035509?via%3Dihub)
