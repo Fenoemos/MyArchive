@@ -15,7 +15,7 @@ Last edit: 2023-10-22 [in progress]
 - [My response - in progress](#my-response)
   + [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
   + [Code Notebook]()
-  + [Executive Summary]()
+  + [Executive Summary](https://docs.google.com/presentation/d/14iKDUCJ2xw9Fgn92J5lBw_POmfMKV-zxw12fXYRP9SE/edit?usp=sharing)
 
 ___
 ### Project background
@@ -93,7 +93,7 @@ ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
 + [Code Notebook]()
-+ [Executive Summary]()
++ [Executive Summary](https://docs.google.com/presentation/d/14iKDUCJ2xw9Fgn92J5lBw_POmfMKV-zxw12fXYRP9SE/edit?usp=sharing)
 
 **_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
 
