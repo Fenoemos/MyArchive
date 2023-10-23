@@ -48,6 +48,10 @@ You’ll also collaborate with Waze co-workers outside the data team as your pro
    + Emrick Larson - Finance and Administration Department Head
    + Ursula Sayo - Operations Manager
 
+The members of the data team have technical expertise in data analysis, and are familiar with  terms and concepts from statistics and machine learning. To communicate effectively with data team members, make sure your messages are clear, concise, and focused on key points. 
+
+Waze co-workers outside the data team may not have a background in data analysis, or be familiar with technical terms and concepts. When communicating with these co-workers, make sure to adjust your language to fit your audience, and clearly explain technical terms if necessary.
+
 **_Note:_** The story, all names, characters, and incidents portrayed in this project are fictitious. 
 No identification with actual persons (living or deceased) is intended or should be inferred. The data shared in this project has been altered for pedagogical purposes.
 ___
