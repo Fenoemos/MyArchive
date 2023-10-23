@@ -9,7 +9,7 @@ Start date: 2023-10-14
 Last edit: 2023-10-22
 ***
 ![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1698192000000&hmac=-Px_hpRiu6pRZNxW-jO55Xf2Iw4ulbHNJMoIerdW8YM)
-
+***
 ### Background on the Waze scenario
 
 Welcome to your new role at Waze! We’re thrilled to have you on the data team! 
@@ -50,5 +50,5 @@ You’ll also collaborate with Waze co-workers outside the data team as your pro
 
 **_Note:_** The story, all names, characters, and incidents portrayed in this project are fictitious. 
 No identification with actual persons (living or deceased) is intended or should be inferred. The data shared in this project has been altered for pedagogical purposes.
-
+___
 _This project has been developed for educational purposes throughout the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program._
