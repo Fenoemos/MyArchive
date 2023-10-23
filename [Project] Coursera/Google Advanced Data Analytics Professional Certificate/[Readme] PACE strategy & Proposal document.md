@@ -8,6 +8,11 @@ Start date: 2023-10-14
 
 Last edit: 2023-10-22
 ***
+## List of contents:
+- [Develop churn project background](develop-churn-project-background)
+
+
+
 ### Develop churn project background
 #### Meeting notes
 After onboarding, you are given access to the company network and set up with a company email account (your first initial and last name, followed by @Waze).
