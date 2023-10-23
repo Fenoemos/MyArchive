@@ -13,7 +13,7 @@ Last edit: 2023-10-22
   - [Meeting notes](#meeting-notes)
   - [Project background](#project-background)
   - [Your assignment](#your-assignment)
-- [Scenario 1: Complete the PACE strategy document and the project proposal](#scenario-1:-complete-the-PACE-strategy-document-and-the-project-proposal)
+- [Scenario 1: Complete the PACE strategy document and the project proposal](#scenario-1:-complete-the-pace-strategy-document-and-the-project-proposal)
 - [My Response](#my-response)
   + [PACE strategy document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
   + [Project Proposal](https://docs.google.com/document/d/1orNPJlZcPHTLAMD1BujwWfmLKyJHNGgWe4oQtseX6-A/edit)
