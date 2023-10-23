@@ -8,7 +8,7 @@ Start date: 2023-10-14
 
 Last edit: 2023-10-22
 ***
-![alt text]([https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1"](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1698192000000&hmac=-Px_hpRiu6pRZNxW-jO55Xf2Iw4ulbHNJMoIerdW8YM))
+![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1698192000000&hmac=-Px_hpRiu6pRZNxW-jO55Xf2Iw4ulbHNJMoIerdW8YM))
 
 ### Background on the Waze scenario
 
