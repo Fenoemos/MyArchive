@@ -14,8 +14,8 @@ Last edit: 2023-10-22
   - [Project background](#project-background)
     - [Your assignment](#your-assignment)
 - [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%201%20PACE%20strategy%20document%20&%20the%20project%20proposal.md#scenario)
-- [My Response](#my-response)
-  + [PACE strategy document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
+- [My response](#my-response)
+  + [PACE Strategy Document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
   + [Project Proposal](https://docs.google.com/document/d/1orNPJlZcPHTLAMD1BujwWfmLKyJHNGgWe4oQtseX6-A/edit)
 
 ---
@@ -97,8 +97,8 @@ Data Analysis Manager
 
 Waze
 ___
-### My Response
-+ [PACE strategy document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
+### My response
++ [PACE Strategy Document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
 + [Project Proposal](https://docs.google.com/document/d/1orNPJlZcPHTLAMD1BujwWfmLKyJHNGgWe4oQtseX6-A/edit)
 
 **_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
