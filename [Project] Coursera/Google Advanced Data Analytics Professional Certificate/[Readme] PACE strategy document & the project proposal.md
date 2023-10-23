@@ -1,6 +1,6 @@
 > # Google Advanced Data Analytics Professional Certificate
 
-## **Course 1: Create PACE strategy & Proposal document**
+## **Course 1: Create the PACE strategy document & the project proposal**
 
 by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
@@ -10,9 +10,13 @@ Last edit: 2023-10-22
 ***
 ## List of contents:
 - [Develop churn project background](#develop-churn-project-background)
+  - [Meeting notes](#meeting-notes)
+  - [Project background](#project-background)
+  - [Your assignment](#your-assignment)
+- [Scenario 1: Complete the PACE strategy document and the project proposal](#scenario-1:-complete-the-PACE-strategy-document-and-the-project-proposal)
+- [My Response](#my-response)
 
-
-
+---
 ### Develop churn project background
 #### Meeting notes
 After onboarding, you are given access to the company network and set up with a company email account (your first initial and last name, followed by @Waze).
@@ -51,7 +55,7 @@ Data Analysis Manager
 Waze
 
 (P.S. Don’t forget about our Data Superstars discussion group. Our next session is this Friday at 3pm. Each month, the team gets together to discuss the work of an innovative and inspiring historical figure. This month, it’s Ada Lovelace, often considered the world’s first computer programmer. This event is also a great opportunity to get to know your new teammates - and, if you want, try the outstanding coffee in the Waze cafe! Please join us!)
-___
+
 #### Project background
 Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
    + A project proposal identifying the following:
@@ -64,7 +68,7 @@ For your first assignment, Waze is asking for a project proposal that will creat
 Remember to take into account your audience, team, project goal, and PACE stages of each task in planning your project deliverable.
 ___
 
-### Scenario
+### Scenario 1: complete the PACE strategy document and the project proposal
 You are the newest member of the Waze data analytics team. Your supervisor, May Santner, has sent you the following email asking you to complete a project proposal for the team’s churn project. Review the email, then follow the provided instructions to complete the PACE strategy document and the project proposal.
 
 **_Note:_** Team member names used in this workplace scenario project are fictional and are not representative of Waze. 
