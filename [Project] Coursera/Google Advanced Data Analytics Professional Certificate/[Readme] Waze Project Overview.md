@@ -8,7 +8,7 @@ Start date: 2023-10-14
 
 Last edit: 2023-10-22
 ***
-![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1698192000000&hmac=-Px_hpRiu6pRZNxW-jO55Xf2Iw4ulbHNJMoIerdW8YM))
+![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1698192000000&hmac=-Px_hpRiu6pRZNxW-jO55Xf2Iw4ulbHNJMoIerdW8YM)
 
 ### Background on the Waze scenario
 
@@ -51,8 +51,4 @@ You’ll also collaborate with Waze co-workers outside the data team as your pro
 **_Note:_** The story, all names, characters, and incidents portrayed in this project are fictitious. 
 No identification with actual persons (living or deceased) is intended or should be inferred. The data shared in this project has been altered for pedagogical purposes.
 
-The members of the data team have technical expertise in data analysis, and are familiar with  terms and concepts from statistics and machine learning. 
-To communicate effectively with data team members, make sure your messages are clear, concise, and focused on key points. 
-
-Waze co-workers outside the data team may not have a background in data analysis, or be familiar with technical terms and concepts. 
-When communicating with these co-workers, make sure to adjust your language to fit your audience, and clearly explain technical terms if necessary.
+_This project has been developed for educational purposes throughout the [Google Advanced Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-advanced-data-analytics) program._
