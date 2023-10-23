@@ -1,6 +1,6 @@
 > # Google Advanced Data Analytics Professional Certificate
 
-## **Create my course 1 Waze project**
+## **Course 1: Create PACE strategy & Proposal document**
 
 by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
