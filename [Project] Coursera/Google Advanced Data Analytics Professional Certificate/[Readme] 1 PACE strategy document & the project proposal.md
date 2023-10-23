@@ -12,7 +12,7 @@ Last edit: 2023-10-22
 - [Develop churn project background](#develop-churn-project-background)
   - [Meeting notes](#meeting-notes)
   - [Project background](#project-background)
-  - [Your assignment](#your-assignment)
+    - [Your assignment](#your-assignment)
 - [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%201%20PACE%20strategy%20document%20&%20the%20project%20proposal.md#scenario)
 - [My Response](#my-response)
   + [PACE strategy document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
@@ -65,7 +65,7 @@ Waze’s data team is in the earliest stages of the churn project. The following
         * Classify tasks using the PACE workflow
         * Identify relevant stakeholders
 
-#### Your assignment
+##### Your assignment
 For your first assignment, Waze is asking for a project proposal that will create milestones for the tasks within this project. 
 Remember to take into account your audience, team, project goal, and PACE stages of each task in planning your project deliverable.
 ___
