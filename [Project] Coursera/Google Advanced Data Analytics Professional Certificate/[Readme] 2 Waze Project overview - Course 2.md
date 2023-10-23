@@ -12,7 +12,11 @@ Last edit: 2023-10-22 [in progress]
 - [Project background](#project-background)
   - [Your assignment](#your-assignment)
 - [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%202%20Waze%20Project%20overview%20-%20Course%202.md#scenario)
-- [# My Response - in progress](#my-response)
+- [My response - in progress](#my-response)
+  + [PACE Strategy Document]()
+  + [Code Notebook]()
+  + [Executive Summary]()
+
 ___
 ### Project background
 Waze’s data team is in the earliest stages of the churn project. The following tasks are needed before the team can begin the data analysis process:
@@ -86,10 +90,10 @@ Senior Data Analyst
 
 Waze
 ___
-### My Response
-+ [PACE strategy document]()
-+ [Code notebook]()
-+ [Executive summary]()
+### My response
++ [PACE Strategy Document]()
++ [Code Notebook]()
++ [Executive Summary]()
 
 **_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
 
