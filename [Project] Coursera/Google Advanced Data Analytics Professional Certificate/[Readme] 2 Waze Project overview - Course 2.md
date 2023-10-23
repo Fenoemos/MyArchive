@@ -9,7 +9,7 @@ Start date: 2023-10-22
 Last edit: 2023-10-22
 ***
 ## List of contents:
-- [Scenario: asking to complete the PACE strategy document, the code notebook & the executive summary](#scenario:-asking-to-complete-the-pace-strategy-document,-the-code-notebook-&-the-executive-summary)
+- [Scenario: asking to complete the PACE strategy document, the code notebook & the executive summary](#scenario-asking-to-complete-the-pace-strategy-document,-the-code-notebook-&-the-executive-summary)
 - [Project background](#project-background)
 - [Your assignment](#your-assignment)
 
