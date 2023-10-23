@@ -18,8 +18,5 @@ ___
 You will build a dataframe for the churn data. After the dataframe is complete, you will organize the data for the process of exploratory data analysis, 
 and update the team on your progress and insights.
 
-**_Note:_** 
-### Team members at Waze
-
 
 
