@@ -70,7 +70,7 @@ For your first assignment, Waze is asking for a project proposal that will creat
 Remember to take into account your audience, team, project goal, and PACE stages of each task in planning your project deliverable.
 ___
 
-### Scenario: asking to complete a project proposal
+### Scenario
 You are the newest member of the Waze data analytics team. Your supervisor, May Santner, has sent you the following email asking you to complete a project proposal for the team’s churn project. Review the email, then follow the provided instructions to complete the PACE strategy document and the project proposal.
 
 <ins>**Email from May Santner, Data Analysis Manager**</ins>
