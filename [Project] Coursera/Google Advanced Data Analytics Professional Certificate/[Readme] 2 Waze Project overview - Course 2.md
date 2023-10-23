@@ -13,7 +13,7 @@ Last edit: 2023-10-22 [in progress]
   - [Your assignment](#your-assignment)
 - [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%202%20Waze%20Project%20overview%20-%20Course%202.md#scenario)
 - [My response - in progress](#my-response)
-  + [PACE Strategy Document]()
+  + [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
   + [Code Notebook]()
   + [Executive Summary]()
 
@@ -91,7 +91,7 @@ Senior Data Analyst
 Waze
 ___
 ### My response
-+ [PACE Strategy Document]()
++ [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
 + [Code Notebook]()
 + [Executive Summary]()
 
