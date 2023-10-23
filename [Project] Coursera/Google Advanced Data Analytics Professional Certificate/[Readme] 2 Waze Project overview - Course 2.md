@@ -13,7 +13,7 @@ Last edit: 2023-10-22
 - [Project background](#project-background)
 - [Your assignment](#your-assignment)
 
-### Scenario: asking to complete the PACE strategy document, the code notebook & the executive summary
+### Scenario
 Your team is still in the early stages of their project to develop a machine learning model to predict user churn. 
 
 Previously, you were asked to complete a project proposal by your supervisor, May Santner. 
