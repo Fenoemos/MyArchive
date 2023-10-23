@@ -13,7 +13,7 @@ Last edit: 2023-10-22
   - [Meeting notes](#meeting-notes)
   - [Project background](#project-background)
   - [Your assignment](#your-assignment)
-- [Scenario 1: Complete the PACE strategy document and the project proposal](#scenario-1:-complete-the-pace-strategy-document-and-the-project-proposal)
+- [Scenario - to complete the PACE strategy document and the project proposal](#scenario-to-complete-the-pace-strategy-document-and-the-project-proposal)
 - [My Response](#my-response)
   + [PACE strategy document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
   + [Project Proposal](https://docs.google.com/document/d/1orNPJlZcPHTLAMD1BujwWfmLKyJHNGgWe4oQtseX6-A/edit)
@@ -70,7 +70,7 @@ For your first assignment, Waze is asking for a project proposal that will creat
 Remember to take into account your audience, team, project goal, and PACE stages of each task in planning your project deliverable.
 ___
 
-### Scenario 1: complete the PACE strategy document and the project proposal
+### Scenario - to complete the PACE strategy document and the project proposal
 You are the newest member of the Waze data analytics team. Your supervisor, May Santner, has sent you the following email asking you to complete a project proposal for the team’s churn project. Review the email, then follow the provided instructions to complete the PACE strategy document and the project proposal.
 
 **_Note:_** Team member names used in this workplace scenario project are fictional and are not representative of Waze. 
