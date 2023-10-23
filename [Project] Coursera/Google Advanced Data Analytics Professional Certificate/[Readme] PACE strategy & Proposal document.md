@@ -9,7 +9,7 @@ Start date: 2023-10-14
 Last edit: 2023-10-22
 ***
 ## List of contents:
-- [Develop churn project background](develop-churn-project-background)
+- [Develop churn project background](#develop-churn-project-background)
 
 
 
