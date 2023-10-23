@@ -1,6 +1,6 @@
 > # Google Advanced Data Analytics Professional Certificate
 
-## **Course 2: **
+## **Course 2: Create the PACE strategy document, the code notebook & the executive summary**
 
 by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
@@ -9,11 +9,11 @@ Start date: 2023-10-22
 Last edit: 2023-10-22
 ***
 ## List of contents:
-- []()
+- [Scenario: asking to complete the PACE strategy document, the code notebook & the executive summary](#scenario:-asking-to-complete-the-pace-strategy-document,-the-code-notebook-&-the-executive-summary)
 - [Project background](#project-background)
 - [Your assignment](#your-assignment)
 
-### Scenario: asking to complete the PACE strategy document, the code notebook, and the executive summary
+### Scenario: asking to complete the PACE strategy document, the code notebook & the executive summary
 Your team is still in the early stages of their project to develop a machine learning model to predict user churn. 
 
 Previously, you were asked to complete a project proposal by your supervisor, May Santner. 
@@ -50,7 +50,7 @@ May Santner
 Data Analysis Manager
 
 Waze
-- - - - - - - - - - - - - - - - - - - - - - - -
+
 <ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
 
 **Subject:** RE: Help with coding notebook?
