@@ -13,7 +13,7 @@ Last edit: 2023-10-22
   - [Meeting notes](#meeting-notes)
   - [Project background](#project-background)
   - [Your assignment](#your-assignment)
-- [Scenario: asking to complete a project proposal](#scenario:-asking-to-complete-a-project-proposal)
+- [Scenario: asking to complete a project proposal](#scenario-asking-to-complete-a-project-proposal)
 - [My Response](#my-response)
   + [PACE strategy document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
   + [Project Proposal](https://docs.google.com/document/d/1orNPJlZcPHTLAMD1BujwWfmLKyJHNGgWe4oQtseX6-A/edit)
