@@ -9,7 +9,7 @@ Start date: 2023-10-22
 Last edit: 2023-10-22
 ***
 ## List of contents:
-- [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%202%20Waze%20Project%20overview%20-%20Course%202.md#scenario-asking-to-complete-the-pace-strategy-document-the-code-notebook--the-executive-summary)
+- [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%202%20Waze%20Project%20overview%20-%20Course%202.md#scenario)
 - [Project background](#project-background)
 - [Your assignment](#your-assignment)
 
