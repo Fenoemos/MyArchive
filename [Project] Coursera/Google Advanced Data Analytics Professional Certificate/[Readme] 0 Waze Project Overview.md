@@ -8,7 +8,8 @@ Start date: 2023-10-14
 
 Last edit: 2023-10-22
 ***
-![alt text](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/xCm_NX3ARhGby5yNHxROZg_2a48fa4727ec4aaf9bd7e063838687f1_image.png?expiry=1698192000000&hmac=-Px_hpRiu6pRZNxW-jO55Xf2Iw4ulbHNJMoIerdW8YM)
+![Waze_pic](https://github.com/Fenoemos/MyArchive/assets/145377446/e60aac85-4214-4368-b940-bbd19bf08a45)
+
 ***
 ### Background on the Waze scenario
 
