@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-10-22
 
-Last edit: 2023-10-24 [in progress]
+Last edit: 2023-10-25
 ***
 ## List of contents:
 - [Project background](#project-background)
