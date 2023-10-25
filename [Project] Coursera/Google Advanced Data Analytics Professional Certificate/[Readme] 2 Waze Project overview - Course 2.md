@@ -14,7 +14,7 @@ Last edit: 2023-10-22 [in progress]
 - [Scenario](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/%5BReadme%5D%202%20Waze%20Project%20overview%20-%20Course%202.md#scenario)
 - [My response - in progress](#my-response)
   + [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
-  + [Code Notebook]()
+  + [Code Notebook]([Project] Coursera/Google Advanced Data Analytics Professional Certificate/Other_file/Activity_Course 2 Waze project lab.pdf)
   + [Executive Summary](https://docs.google.com/presentation/d/14iKDUCJ2xw9Fgn92J5lBw_POmfMKV-zxw12fXYRP9SE/edit?usp=sharing)
 
 ___
@@ -92,7 +92,7 @@ Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
-+ [Code Notebook]()
++ [Code Notebook]([Project] Coursera/Google Advanced Data Analytics Professional Certificate/Other_file/Activity_Course 2 Waze project lab.pdf)
 + [Executive Summary](https://docs.google.com/presentation/d/14iKDUCJ2xw9Fgn92J5lBw_POmfMKV-zxw12fXYRP9SE/edit?usp=sharing)
 
 **_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
