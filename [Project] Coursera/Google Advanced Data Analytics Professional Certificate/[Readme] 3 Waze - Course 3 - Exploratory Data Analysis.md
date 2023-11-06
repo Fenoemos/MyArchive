@@ -11,11 +11,11 @@ Last edit: 2023-11-05 (Not yet)
 ## List of contents:
 - [Project background](#project-background)
   - [Your assignment](#your-assignment)
-- [Scenario]()
+- [Scenario](#scenario)
 - [My response - in progress](#my-response)
-  + [PACE Strategy Document]()
+  + [PACE Strategy Document](https://docs.google.com/document/d/1xqE55i678DVsZ7HEfHnJtXXPwWlMMk-sFiz-811VGgA/edit?usp=sharing&resourcekey=0-ApDe1I2ppz2Z1enBO8sM-A)
   + [EDA Code Notebook]()
-  + [Executive Summary]()
+  + [Executive Summary](https://docs.google.com/presentation/d/1KRtdFYJnJWrW_Tu0agmnTVrD7xi3Z7O_15GvkRHxDR4/edit?usp=sharing&resourcekey=0-y1tFqx64dtUfyhpbaR0ZLA)
 
 ___
 ### Project background
@@ -84,8 +84,8 @@ Director of Data Analysis
 Waze
 ___
 ### My response
-+ [PACE Strategy Document]()
++ [PACE Strategy Document](https://docs.google.com/document/d/1xqE55i678DVsZ7HEfHnJtXXPwWlMMk-sFiz-811VGgA/edit?usp=sharing&resourcekey=0-ApDe1I2ppz2Z1enBO8sM-A)
 + [EDA Code Notebook]()
-+ [Executive Summary]()
++ [Executive Summary](https://docs.google.com/presentation/d/1KRtdFYJnJWrW_Tu0agmnTVrD7xi3Z7O_15GvkRHxDR4/edit?usp=sharing&resourcekey=0-y1tFqx64dtUfyhpbaR0ZLA)
 
 **_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
