@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-05
 
-Last edit: 2023-11-05 (Not yet)
+Last edit: 2023-11-13
 ***
 ## List of contents:
 - [Project background](#project-background)
@@ -14,7 +14,7 @@ Last edit: 2023-11-05 (Not yet)
 - [Scenario](#scenario)
 - [My response - in progress](#my-response)
   + [PACE Strategy Document](https://docs.google.com/document/d/1xqE55i678DVsZ7HEfHnJtXXPwWlMMk-sFiz-811VGgA/edit?usp=sharing&resourcekey=0-ApDe1I2ppz2Z1enBO8sM-A)
-  + [EDA Code Notebook]()
+  + [EDA Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_Course%203%20Waze%20project%20lab.pdf)
   + [Executive Summary](https://docs.google.com/presentation/d/1KRtdFYJnJWrW_Tu0agmnTVrD7xi3Z7O_15GvkRHxDR4/edit?usp=sharing&resourcekey=0-y1tFqx64dtUfyhpbaR0ZLA)
 
 ___
@@ -85,7 +85,5 @@ Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1xqE55i678DVsZ7HEfHnJtXXPwWlMMk-sFiz-811VGgA/edit?usp=sharing&resourcekey=0-ApDe1I2ppz2Z1enBO8sM-A)
-+ [EDA Code Notebook]()
++ [EDA Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_Course%203%20Waze%20project%20lab.pdf)
 + [Executive Summary](https://docs.google.com/presentation/d/1KRtdFYJnJWrW_Tu0agmnTVrD7xi3Z7O_15GvkRHxDR4/edit?usp=sharing&resourcekey=0-y1tFqx64dtUfyhpbaR0ZLA)
-
-**_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
