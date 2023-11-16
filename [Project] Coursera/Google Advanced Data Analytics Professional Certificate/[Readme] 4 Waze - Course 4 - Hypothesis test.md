@@ -74,7 +74,7 @@ It’s great to hear leadership is happy. I’m reminded again what a great data
 
 Please tell leadership we will provide them with this analysis in two weeks time. 
 
-@Chidi, my initial thought is for us to conduct a two-sample t-test to analyze the difference in the mean amount of rides between iPhone users and Android users. What do you think? 
+<ins>@Chidi</ins>, my initial thought is for us to conduct a two-sample t-test to analyze the difference in the mean amount of rides between iPhone users and Android users. What do you think? 
 
 Thanks, 
 
@@ -94,7 +94,7 @@ Waze
 
 Hi all, 
 
-<ins>@May<ins>, I agree with you on hypothesis testing. We’ll share a summary of the results before we present to leadership. 
+<ins>@May</ins>, I agree with you on hypothesis testing. We’ll share a summary of the results before we present to leadership. 
 
 We’ll get started right away. 
 
