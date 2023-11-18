@@ -26,14 +26,14 @@ ___
 ___
 ### Scenario
 
-___
-<ins>**Email from Sylvester Esperanza, Senior Project Manager**</ins>
 
-**Subject:** New Request - Analyze rides based on device type
+<sub><ins>****</ins>
 
-**From:** “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
+<sub>**Subject:** 
 
-**Cc:** “May Santner,” <ins>May@waze</ins>; “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**From:** “,” <ins>@Waze</ins>
+
+<sub>**Cc:**
 
 ___
 ### My response
