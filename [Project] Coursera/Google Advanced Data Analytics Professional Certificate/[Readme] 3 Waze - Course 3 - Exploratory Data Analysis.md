@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-05
 
-Last edit: 2023-11-13
+Last edit: 2023-11-18 [Update format]
 ***
 ## List of contents:
 - [Project background](#project-background)
@@ -36,52 +36,52 @@ You check your inbox and notice a new message from Chidi Ga, your team’s Senio
 Chidi is pleased with the work you have already completed and requests your assistance with Exploratory Data Analysis (EDA) and further data visualization. 
 You also notice a follow-up email from the Director of Data Analysis, Harriet Hadzic. 
 Harriet suggests including an executive summary of your analysis to share with teammates. 
-___
-<ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
 
-**Subject:** EDA & Data Viz
+<sub><ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
 
-**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**Subject:** EDA & Data Viz
 
-**Cc:** “May Santner,” <ins>May@waze</ins>; “Harriet Hadzic,” <ins>Harriet@waze</ins>
+<sub>**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-Hi there,
+<sub>**Cc:** “May Santner,” <ins>May@waze</ins>; “Harriet Hadzic,” <ins>Harriet@waze</ins>
 
-Thanks for the amazing work you’ve done so far. 
+<sub>Hi there,
 
-We’re ready to perform EDA on our user data. Has May told you what the leadership team expects when it comes to EDA? If not, think of it as a “show your work” kind of report. They will want to see a Python notebook showing the structuring and cleaning you did, and any data visualizations you created to better understand the data. To start, I suggest you create a box plot of the variable “drives,” and a scatter plot of the variables “drives” and “sessions.” Feel free to add any other visuals you think are useful. 
+<sub>Thanks for the amazing work you’ve done so far. 
 
-By the way, I cc’d our director, Harriet Hadzic, who is on the leadership team and will be reviewing our analysis. @Harriet, I want to keep you informed on our progress! 
+<sub>We’re ready to perform EDA on our user data. Has May told you what the leadership team expects when it comes to EDA? If not, think of it as a “show your work” kind of report. They will want to see a Python notebook showing the structuring and cleaning you did, and any data visualizations you created to better understand the data. To start, I suggest you create a box plot of the variable “drives,” and a scatter plot of the variables “drives” and “sessions.” Feel free to add any other visuals you think are useful. 
 
-Thanks! 
+<sub>By the way, I cc’d our director, Harriet Hadzic, who is on the leadership team and will be reviewing our analysis. @Harriet, I want to keep you informed on our progress! 
 
-Chidi Ga
+<sub>Thanks! 
 
-Senior Data Analyst
+<sub>Chidi Ga
 
-Waze
+<sub>Senior Data Analyst
 
-<ins>**Email from Harriet Hadzic, Director of Data Analysis**</ins>
+<sub>Waze
 
-**Subject:** RE: EDA & Data Viz
+<sub><ins>**Email from Harriet Hadzic, Director of Data Analysis**</ins>
 
-**From:** “Harriet Hadzic,” <ins>Harriet@waze </ins>
+<sub>**Subject:** RE: EDA & Data Viz
 
-**Cc:** “May Santner,” <ins>May@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**From:** “Harriet Hadzic,” <ins>Harriet@waze </ins>
 
-Thanks for the update, Chidi!  
+<sub>**Cc:** “May Santner,” <ins>May@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>
 
-Welcome to the team. We’re so glad to have you. 
+<sub>Thanks for the update, Chidi!  
 
-Along with the notebook, it would be really helpful if you included an executive summary of your analysis attached via email. 
+<sub>Welcome to the team. We’re so glad to have you. 
 
-I appreciate your help! 
+<sub>Along with the notebook, it would be really helpful if you included an executive summary of your analysis attached via email. 
 
-Harriet Hadzic
+<sub>I appreciate your help! 
 
-Director of Data Analysis
+<sub>Harriet Hadzic
 
-Waze
+<sub>Director of Data Analysis
+
+<sub>Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1xqE55i678DVsZ7HEfHnJtXXPwWlMMk-sFiz-811VGgA/edit?usp=sharing&resourcekey=0-ApDe1I2ppz2Z1enBO8sM-A)
