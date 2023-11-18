@@ -6,15 +6,15 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-15
 
-Last edit: 2023-11-15 (Not yet)
+Last edit: 2023-11-18
 ***
 ## List of contents:
 - [Project background](#project-background)
   - [Your assignment](#your-assignment)
 - [Scenario](#scenario)
-- [My response - in progress](#my-response)
+- [My response](#my-response)
   + [PACE Strategy Document](https://docs.google.com/document/d/1pZ7NACOooi1SW5736v09r2yci2UQonnamJPZ3QX_s7k/edit?usp=sharing)
-  + [Hypothesis Test Code Notebook]()
+  + [Hypothesis Test Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_Course%204%20Waze%20project%20lab.pdf)
   + [Executive Summary](https://docs.google.com/presentation/d/1hMWdnV_mSJlGkVFnamuju0OUXASM3wW0uw-KaaZsT1I/edit?usp=sharing)
 
 ___
@@ -150,5 +150,5 @@ Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1pZ7NACOooi1SW5736v09r2yci2UQonnamJPZ3QX_s7k/edit?usp=sharing)
-+ [Hypothesis Test Code Notebook]()
++ [Hypothesis Test Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_Course%204%20Waze%20project%20lab.pdf)
 + [Executive Summary](https://docs.google.com/presentation/d/1hMWdnV_mSJlGkVFnamuju0OUXASM3wW0uw-KaaZsT1I/edit?usp=sharing)
