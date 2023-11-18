@@ -37,116 +37,116 @@ You’ve also used Python to create data visualizations. The next step is to use
 You receive a new email from Sylvester Esperanza, your project manager. Sylvester tells your team about a new request from leadership: to analyze the relationship between mean amount of rides and device type. 
 You also discover follow-up emails from three other team members: May Santner, Chidi Ga, and Harriet Hadzic. 
 These emails discuss the details of the analysis. A final email from Chidi includes your specific assignment: to conduct a two-sample hypothesis test. 
-___
-<ins>**Email from Sylvester Esperanza, Senior Project Manager**</ins>
 
-**Subject:** New Request - Analyze rides based on device type
+<sub><ins>**Email from Sylvester Esperanza, Senior Project Manager**</ins>
 
-**From:** “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
+<sub>**Subject:** New Request - Analyze rides based on device type
 
-**Cc:** “May Santner,” <ins>May@waze</ins>; “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**From:** “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
 
-Hello, data team! 
+<sub>**Cc:** “May Santner,” <ins>May@waze</ins>; “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>
 
-Excellent work so far. The leadership team is impressed with the results, especially the analysis on the last report! 
+<sub>Hello, data team! 
 
-On that note, they have requested a new deliverable be added to the initial project scope. They would like a statistical analysis of ride data based on device type. In particular, leadership wants to know if there is a statistically significant difference in mean amount of rides between iPhone® users and Android™ users. 
+<sub>Excellent work so far. The leadership team is impressed with the results, especially the analysis on the last report! 
 
-Should you conclude that the difference in mean amount of rides between iPhone users and Android users is statistically significant, please discuss next steps: what are your thoughts on strategies our team could implement to address these differences, such as improving user experience on a specific device? 
+<sub>On that note, they have requested a new deliverable be added to the initial project scope. They would like a statistical analysis of ride data based on device type. In particular, leadership wants to know if there is a statistically significant difference in mean amount of rides between iPhone® users and Android™ users. 
 
-Many thanks! 
+<sub>Should you conclude that the difference in mean amount of rides between iPhone users and Android users is statistically significant, please discuss next steps: what are your thoughts on strategies our team could implement to address these differences, such as improving user experience on a specific device? 
 
-Sylvester Esperanza
+<sub>Many thanks! 
 
-Senior Project Manager
+<sub>Sylvester Esperanza
 
-Waze
+<sub>Senior Project Manager
 
-<ins>**Email from May Santner, Data Analysis Manager**</ins>
+<sub>Waze
 
-**Subject:** RE: New Request - Analyze rides based on device type
+<sub><ins>**Email from May Santner, Data Analysis Manager**</ins>
 
-**From:** “May Santner,” <ins>May@waze</ins>
+<sub>**Subject:** RE: New Request - Analyze rides based on device type
 
-**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
+<sub>**From:** “May Santner,” <ins>May@waze</ins>
 
-Thanks, Sylvester. 
+<sub>**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
 
-It’s great to hear leadership is happy. I’m reminded again what a great data team we have! 
+<sub>Thanks, Sylvester. 
 
-Please tell leadership we will provide them with this analysis in two weeks time. 
+<sub>It’s great to hear leadership is happy. I’m reminded again what a great data team we have! 
 
-<ins>@Chidi</ins>, my initial thought is for us to conduct a two-sample t-test to analyze the difference in the mean amount of rides between iPhone users and Android users. What do you think? 
+<sub>Please tell leadership we will provide them with this analysis in two weeks time. 
 
-Thanks, 
+<sub><ins>@Chidi</ins>, my initial thought is for us to conduct a two-sample t-test to analyze the difference in the mean amount of rides between iPhone users and Android users. What do you think? 
 
-May Santner
+<sub>Thanks, 
 
-Data Analysis Manager
+<sub>May Santner
 
-Waze
+<sub>Data Analysis Manager
 
-<ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
+<sub>Waze
 
-**Subject:** RE: New Request - Analyze rides based on device type
+<sub><ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
 
-**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**Subject:** RE: New Request - Analyze rides based on device type
 
-**Cc:** “May Santner,” <ins>May@waze</ins>;“Harriet Hadzic,” <ins>Harriet@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
+<sub>**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-Hi all, 
+<sub>**Cc:** “May Santner,” <ins>May@waze</ins>;“Harriet Hadzic,” <ins>Harriet@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
 
-<ins>@May</ins>, I agree with you on hypothesis testing. We’ll share a summary of the results before we present to leadership. 
+<sub>Hi all, 
 
-We’ll get started right away. 
+<sub><ins>@May</ins>, I agree with you on hypothesis testing. We’ll share a summary of the results before we present to leadership. 
 
-Thank you,
+<sub>We’ll get started right away. 
 
-Chidi Ga
+<sub>Thank you,
 
-Senior Data Analyst
+<sub>Chidi Ga
 
-Waze
+<sub>Senior Data Analyst
 
-<ins>**Email from Harriet Hadzic, Director of Data Analysis**</ins>
+<sub>Waze
 
-**Subject:** New Request - Analyze rides based on device type
+<sub><ins>**Email from Harriet Hadzic, Director of Data Analysis**</ins>
 
-**From:** “Harriet Hadzic,” <ins>Harriet@waze</ins>
+<sub>**Subject:** New Request - Analyze rides based on device type
 
-**Cc:** “May Santner,” <ins>May@waze</ins>;“Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
+<sub>**From:** “Harriet Hadzic,” <ins>Harriet@waze</ins>
 
-I support this plan of action. Thank you all. 
+<sub>**Cc:** “May Santner,” <ins>May@waze</ins>;“Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>
 
-Harriet Hadzic
+<sub>I support this plan of action. Thank you all. 
 
-Director of Data Analysis
+<sub>Harriet Hadzic
 
-Waze
+<sub>Director of Data Analysis
 
-<ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
+<sub>Waze
 
-**Subject:** New Request - Analyze rides based on device type
+<sub><ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
 
-**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**Subject:** New Request - Analyze rides based on device type
 
-Hi there, fellow data guru! 
+<sub>**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-You’ve been handling all of this work really well, by the way. Excellent job. 
+<sub>Hi there, fellow data guru! 
 
-I was wondering if you’d like to try the hypothesis test on the user data yourself? Based on what you’ve shared with me, I’m confident you have all the skills and experience needed for this task. 
+<sub>You’ve been handling all of this work really well, by the way. Excellent job. 
 
-What do you think? 
+<sub>I was wondering if you’d like to try the hypothesis test on the user data yourself? Based on what you’ve shared with me, I’m confident you have all the skills and experience needed for this task. 
 
-Also, as I said in my email to May, you’ll need to draft an executive summary of the results to share with Harriet and the rest of the leadership team. 
+<sub>What do you think? 
 
-Thanks so much! 
+<sub>Also, as I said in my email to May, you’ll need to draft an executive summary of the results to share with Harriet and the rest of the leadership team. 
 
-Chidi Ga
+<sub>Thanks so much! 
 
-Senior Data Analyst
+<sub>Chidi Ga
 
-Waze
+<sub>Senior Data Analyst
+
+<sub>Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1pZ7NACOooi1SW5736v09r2yci2UQonnamJPZ3QX_s7k/edit?usp=sharing)
