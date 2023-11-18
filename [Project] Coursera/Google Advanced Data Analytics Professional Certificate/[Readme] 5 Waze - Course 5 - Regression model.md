@@ -33,80 +33,80 @@ ___
 The data team at Waze is more than halfway through their project for developing a machine learning model to predict user churn. Earlier, you completed a project proposal, used Python to explore and analyze Waze’s user data, created data visualizations, and conducted a hypothesis test. Now, leadership wants your team to build a regression model to predict user churn based on a variety of variables.
 
 You check your inbox and discover a new email from Ursula Sayo, the Operations Manager at Waze. Ursula asks your team about the details of the regression model. You also notice two follow-up emails from your supervisor, May Santner. The first email is a response to Ursula, and says that the team will build a binomial logistic regression model. In her second email, May asks you to help build the model and prepare an executive summary to share your results.
-___
-<ins>**Email from Ursula Sayo, Operations Manager**</ins>
 
-**Subject:** Details on Regression Model
+<sub><ins>**Email from Ursula Sayo, Operations Manager**</ins>
 
-**From:** “Ursula Sayo,” <ins>Ursula@waze</ins>
+<sub>**Subject:** Details on Regression Model
 
-**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>; “May Santner,” <ins>May@waze</ins>
+<sub>**From:** “Ursula Sayo,” <ins>Ursula@waze</ins>
 
-Hello data team,
+<sub>**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>; “May Santner,” <ins>May@waze</ins>
 
-I really appreciate your work, and thanks for the explanation of the next phase of the algorithm creation.
+<sub>Hello data team,
 
-I was hoping to get a bit more detail on regression. Will you be applying a linear or logistic regression model? It wasn’t clear in the meeting, and I want to align on expectations. 
+<sub>I really appreciate your work, and thanks for the explanation of the next phase of the algorithm creation.
 
-Thank you, 
+<sub>I was hoping to get a bit more detail on regression. Will you be applying a linear or logistic regression model? It wasn’t clear in the meeting, and I want to align on expectations. 
 
-Ursula Sayo
+<sub>Thank you, 
 
-Operations Manager
+<sub>Ursula Sayo
 
-Waze
-- - - - - - - - - -
-<ins>**Email from May Santner, Data Analysis Manager**</ins>
+<sub>Operations Manager
 
-**Subject:** RE: Details on Regression Model
+<sub>Waze
 
-**From:** “May Santner,” <ins>May@waze</ins>
+<sub><ins>**Email from May Santner, Data Analysis Manager**</ins>
 
-**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>; “Ursula Sayo,” <ins>Ursula@waze</ins>
+<sub>**Subject:** RE: Details on Regression Model
 
-Thank you for your email. 
+<sub>**From:** “May Santner,” <ins>May@waze</ins>
 
-Apologies that the details were not made clear in our meeting.
+<sub>**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>; “Ursula Sayo,” <ins>Ursula@waze</ins>
 
-To answer your question, we will build a binomial logistic regression model. Because we want to predict user churn, the binomial logistic regression model will be our confirmation for how best to proceed with the ML algorithm in the final phase of the project. 
+<sub>Thank you for your email. 
 
-Our team will be working on getting you the results of our analysis this week. 
+<sub>Apologies that the details were not made clear in our meeting.
 
-Feel free to reach out with additional questions. 
+<sub>To answer your question, we will build a binomial logistic regression model. Because we want to predict user churn, the binomial logistic regression model will be our confirmation for how best to proceed with the ML algorithm in the final phase of the project. 
 
-Many thanks,
+<sub>Our team will be working on getting you the results of our analysis this week. 
 
-May Santner
+<sub>Feel free to reach out with additional questions. 
 
-Data Analysis Manager
+<sub>Many thanks,
 
-Waze
-- - - - - - - - - -
-<ins>**Email from May Santner, Data Analysis Manager**</ins>
+<sub>May Santner
 
-**Subject:** RE: Details on Regression Model
+<sub>Data Analysis Manager
 
-**From:** “May Santner,” <ins>May@waze</ins>
+<sub>Waze
 
-**Cc:** “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub><ins>**Email from May Santner, Data Analysis Manager**</ins>
 
-Hello team! 
+<sub>**Subject:** RE: Details on Regression Model
 
-Would you two mind completing the following? 
+<sub>**From:** “May Santner,” <ins>May@waze</ins>
 
-+ Build a binomial logistic regression model in a code notebook
+<sub>**Cc:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-+ Write an executive summary of your results
+<sub>Hello team! 
 
-I’d appreciate a chance to review your work before you send it over to Ursula, but write the summary as if you’re addressing the leadership team. 
+<sub>Would you two mind completing the following? 
 
-Best regards,
+<sub>+ Build a binomial logistic regression model in a code notebook
 
-May Santner
+<sub>+ Write an executive summary of your results
 
-Data Analysis Manager
+<sub>I’d appreciate a chance to review your work before you send it over to Ursula, but write the summary as if you’re addressing the leadership team. 
 
-Waze
+<sub>Best regards,
+
+<sub>May Santner
+
+<sub>Data Analysis Manager
+
+<sub>Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/14DZwKsE8x0iD1rdTuM6-Yl7GtKPvIfrKZBitCzOCsbE/edit?usp=sharing)
