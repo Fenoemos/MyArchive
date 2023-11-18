@@ -73,7 +73,7 @@ ___
 ### Scenario
 You are the newest member of the Waze data analytics team. Your supervisor, May Santner, has sent you the following email asking you to complete a project proposal for the team’s churn project. Review the email, then follow the provided instructions to complete the PACE strategy document and the project proposal.
 
-<ins>**Email from May Santner, Data Analysis Manager**</ins>
+<sub><ins>**Email from May Santner, Data Analysis Manager**</ins>
 
 **Subject:** Welcome to Waze!
 
@@ -95,7 +95,7 @@ May Santner
 
 Data Analysis Manager
 
-Waze
+Waze</sub>
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1wHo0TWOor242YQ4iAgZOb_ZrtrlGl3sNC8FycPo3MSE/edit)
