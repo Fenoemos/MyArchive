@@ -94,9 +94,9 @@ You check your inbox and discover a new email from Ursula Sayo, the Operations M
 
 <sub>Would you two mind completing the following? 
 
-<sub>+ Build a binomial logistic regression model in a code notebook
+<sub> - Build a binomial logistic regression model in a code notebook
 
-<sub>+ Write an executive summary of your results
+<sub> - Write an executive summary of your results
 
 <sub>I’d appreciate a chance to review your work before you send it over to Ursula, but write the summary as if you’re addressing the leadership team. 
 
