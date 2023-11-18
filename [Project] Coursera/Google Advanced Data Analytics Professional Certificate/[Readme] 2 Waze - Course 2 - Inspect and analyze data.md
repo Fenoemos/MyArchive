@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-10-22
 
-Last edit: 2023-10-25
+Last edit: 2023-11-18 [Update format]
 ***
 ## List of contents:
 - [Project background](#project-background)
@@ -39,56 +39,55 @@ You discover two new emails in your inbox: one from May Santner, and one from yo
 In the email, May asks for your help reviewing the data and completing a code notebook, and Chidi shares the details of the notebook. 
 Review the emails, then follow the provided instructions to complete the PACE strategy document, the code notebook, and the executive summary. 
 
-___
-<ins>**Email from May Santner, Data Analysis Manager**</ins>
+<sub><ins>**Email from May Santner, Data Analysis Manager**</ins>
 
-**Subject:** Help with coding notebook?
+<sub>**Subject:** Help with coding notebook?
 
-**From:** “May Santner,” <ins>May@waze</ins>
+<sub>**From:** “May Santner,” <ins>May@waze</ins>
 
-**Cc:** “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**Cc:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-Good morning!
+<sub>Good morning!
 
-I have a couple of updates on the user churn project. First off, the project proposal you completed has been approved. Thanks for all your great work so far. Second, I just received an email from our Senior Project Manager, Sylvester Esperanza, that our team has been given access to the Waze user data.
+<sub>I have a couple of updates on the user churn project. First off, the project proposal you completed has been approved. Thanks for all your great work so far. Second, I just received an email from our Senior Project Manager, Sylvester Esperanza, that our team has been given access to the Waze user data.
 
-Before we begin the process of exploratory data analysis (EDA), we could really use your help with coding and prepping the data. During your interview, you mentioned that you worked with Python in your Google certificate program. You can draw on your Python skills for this task.
+<sub>Before we begin the process of exploratory data analysis (EDA), we could really use your help with coding and prepping the data. During your interview, you mentioned that you worked with Python in your Google certificate program. You can draw on your Python skills for this task.
 
-Chidi Ga (cc’d above) started a Jupyter notebook with the relevant dataset (imported). Right now, Chidi is busy finishing up a previous project. I’m sure he could use your assistance in completing the coding and setting up the notebook for the user churn project. 
+<sub>Chidi Ga (cc’d above) started a Jupyter notebook with the relevant dataset (imported). Right now, Chidi is busy finishing up a previous project. I’m sure he could use your assistance in completing the coding and setting up the notebook for the user churn project. 
 
-Chidi, do you mind sharing the details? 
+<sub>Chidi, do you mind sharing the details? 
 
-Best, 
+<sub>Best, 
 
-May Santner 
+<sub>May Santner 
 
-Data Analysis Manager
+<sub>Data Analysis Manager
 
-Waze
+<sub>Waze
 
-<ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
+<sub><ins>**Email from Chidi Ga, Senior Data Analyst**</ins>
 
-**Subject:** RE: Help with coding notebook?
+<sub>**Subject:** RE: Help with coding notebook?
 
-**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
+<sub>**From:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-**Cc:** “May Santner,” <ins>May@waze</ins>
+<sub>**Cc:** “May Santner,” <ins>May@waze</ins>
 
-Nice to meet you (virtually)! 
+<sub>Nice to meet you (virtually)! 
 
-Hope you’ve enjoyed your first few weeks at Waze! 
+<sub>Hope you’ve enjoyed your first few weeks at Waze! 
 
-The project proposal you helped prepare covered the major points of this project, so I’ll get right to how you can assist the team. Right now, a number of us are busy making adjustments to the machine learning model for another project, so your help is greatly appreciated!
+<sub>The project proposal you helped prepare covered the major points of this project, so I’ll get right to how you can assist the team. Right now, a number of us are busy making adjustments to the machine learning model for another project, so your help is greatly appreciated!
 
-Until we finish our previous project, there is no need to do a full EDA on our new user data. We’ll get to that soon. Meanwhile, do you mind reviewing the imported data for the team? It would be fantastic if you could include a summary of the data types for each variable, where missing values exist in the data, key descriptive statistics, and anything else code-related you think is worth sharing in the notebook. I haven’t had a chance to explore the data, so I really appreciate you getting an early start on this. 
+<sub>Until we finish our previous project, there is no need to do a full EDA on our new user data. We’ll get to that soon. Meanwhile, do you mind reviewing the imported data for the team? It would be fantastic if you could include a summary of the data types for each variable, where missing values exist in the data, key descriptive statistics, and anything else code-related you think is worth sharing in the notebook. I haven’t had a chance to explore the data, so I really appreciate you getting an early start on this. 
 
-Thanks,
+<sub>Thanks,
 
-Chidi Ga
+<sub>Chidi Ga
 
-Senior Data Analyst
+<sub>Senior Data Analyst
 
-Waze
+<sub>Waze
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1yT5wRuHPavyFYeNbyK5cLE9V4HoTKf5ceDnDx5BZmzw/edit?usp=sharing&resourcekey=0-qEzYhbq9cm5KuRmXdiT2Mg)
