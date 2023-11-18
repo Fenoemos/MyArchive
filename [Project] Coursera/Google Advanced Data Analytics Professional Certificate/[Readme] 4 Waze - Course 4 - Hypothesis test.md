@@ -22,6 +22,8 @@ ___
 Waze’s data team is working on the churn project. The following tasks are needed at this stage of the project:
   + Explore the project data
   + Implement a hypothesis test
+     - Computing descriptive statistics
+     - Conducting a two-sample hypothesis test
   + Communicate insights with stakeholders within Waze
 
 #### Your assignment
