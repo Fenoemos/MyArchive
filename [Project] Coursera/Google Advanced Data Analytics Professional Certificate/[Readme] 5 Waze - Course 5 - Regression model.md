@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-18
 
-Last edit: 2023-11-18 (Not yet)
+Last edit: 2023-11-20
 ***
 ## List of contents:
 - [Project background](#project-background)
@@ -14,7 +14,7 @@ Last edit: 2023-11-18 (Not yet)
 - [Scenario](#scenario)
 - [My response](#my-response)
   + [PACE Strategy Document](https://docs.google.com/document/d/14DZwKsE8x0iD1rdTuM6-Yl7GtKPvIfrKZBitCzOCsbE/edit?usp=sharing)
-  + [Code Notebook]()
+  + [Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_Course%205%20Waze%20project%20lab.pdf)
   + [Executive Summary](https://docs.google.com/presentation/d/1asfp8f1V8w6oskbJxnf26qfMzQPVCXZgLkzJoNwIPM0/edit?usp=sharing&resourcekey=0-cyCksdsDxpjJHpyUzci2TQ)
 
 ___
@@ -110,5 +110,5 @@ You check your inbox and discover a new email from Ursula Sayo, the Operations M
 ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/14DZwKsE8x0iD1rdTuM6-Yl7GtKPvIfrKZBitCzOCsbE/edit?usp=sharing)
-+ [Code Notebook]()
++ [Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_Course%205%20Waze%20project%20lab.pdf)
 + [Executive Summary](https://docs.google.com/presentation/d/1asfp8f1V8w6oskbJxnf26qfMzQPVCXZgLkzJoNwIPM0/edit?usp=sharing&resourcekey=0-cyCksdsDxpjJHpyUzci2TQ)
