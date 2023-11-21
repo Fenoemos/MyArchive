@@ -9,8 +9,6 @@ Start date: 2023-11-22
 Last edit: 2023-11-22
 ***
 ![GoogleFiber_pic](https://github.com/Fenoemos/MyArchive/assets/145377446/714b4e71-241e-427a-9a09-dd08791c7b1c)
-
-***
 ### Background
 
 Google Fiber provides people and businesses with fiber optic internet. Currently, the customer service team working in their call centers answers calls from customers in their established service areas. 
