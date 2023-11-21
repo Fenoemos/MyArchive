@@ -6,9 +6,9 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-22
 
-Last edit: 2023-11-22 (Not complete)
+Last edit: 2023-11-22
 ***
-![GoogleFiber_pic]([https://github.com/Fenoemos/MyArchive/assets/145377446/e60aac85-4214-4368-b940-bbd19bf08a45](https://download.logo.wine/logo/Google_Fiber/Google_Fiber-Logo.wine.png))
+![GoogleFiber_pic](https://github.com/Fenoemos/MyArchive/assets/145377446/714b4e71-241e-427a-9a09-dd08791c7b1c)
 
 ***
 ### Background
