@@ -7,6 +7,9 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 Start date: 2023-11-22
 
 Last edit: 2023-11-22
+
+![dRDK4TVOR6SaVo7njGbGsg_1459e7e8a50548e6b4836cec950700f1_cgh0adcK0xy49bWyeSIOxbyUSLimWuSQy6B1NmxJjbMumadfHaCCpFzgfeTernBlqx69gtHmFbPHlGxpmmQ3T2QQITXfVDnRiEomOTnfIuVyvv0sgmkwBJpkR](https://github.com/Fenoemos/MyArchive/assets/145377446/fdd22ec0-ff93-4405-a731-d6100bb3189d)
+
 ***
 ## List of contents:
   - [Welcome to Google Fiber!](#welcome-to-google-fiber!)
