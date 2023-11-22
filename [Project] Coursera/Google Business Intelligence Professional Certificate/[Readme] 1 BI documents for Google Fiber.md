@@ -6,10 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-22
 
-Last edit: 2023-11-22
-
-![dRDK4TVOR6SaVo7njGbGsg_1459e7e8a50548e6b4836cec950700f1_cgh0adcK0xy49bWyeSIOxbyUSLimWuSQy6B1NmxJjbMumadfHaCCpFzgfeTernBlqx69gtHmFbPHlGxpmmQ3T2QQITXfVDnRiEomOTnfIuVyvv0sgmkwBJpkR](https://github.com/Fenoemos/MyArchive/assets/145377446/fdd22ec0-ff93-4405-a731-d6100bb3189d)
-
+Last edit: 2023-11-22 (Not complete)
 ***
 ## List of contents:
   - [Welcome to Google Fiber!](#welcome-to-google-fiber!)
@@ -26,6 +23,8 @@ The position you are interviewing for is in the customer call center, where Fibe
 
 To provide the interviewers with both BI value and organizational data maturity, you will use your knowledge of the BI stages: capture, analyze, and monitor. 
 By the time you are done, you will have an end-of-course project that demonstrates your knowledge and skills to potential employers.
+
+![dRDK4TVOR6SaVo7njGbGsg_1459e7e8a50548e6b4836cec950700f1_cgh0adcK0xy49bWyeSIOxbyUSLimWuSQy6B1NmxJjbMumadfHaCCpFzgfeTernBlqx69gtHmFbPHlGxpmmQ3T2QQITXfVDnRiEomOTnfIuVyvv0sgmkwBJpkR](https://github.com/Fenoemos/MyArchive/assets/145377446/fdd22ec0-ff93-4405-a731-d6100bb3189d)
 ___
 ### My meeting notes
 I am interviewing with the Google Fiber customer service team for a position as a BI analyst. 
