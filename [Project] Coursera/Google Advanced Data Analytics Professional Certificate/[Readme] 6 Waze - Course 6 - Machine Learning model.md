@@ -1,6 +1,6 @@
 > # Google Advanced Data Analytics Professional Certificate
 
-## **Course 6: Create the PACE strategy document, the code notebook & the executive summary**
+## **Course 6: Create the PACE strategy document, the machine learning code notebook & the executive summary**
 
 by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
@@ -14,7 +14,7 @@ Last edit: 2023-11-22 (In-progress)
 - [Scenario](#scenario)
 - [My response](#my-response)
   + [PACE Strategy Document]()
-  + [Hypothesis Test Code Notebook]()
+  + [Machine Learning Code Notebook]()
   + [Executive Summary]()
 
 ___
@@ -82,5 +82,5 @@ Waze
 ___
 ### My response
 + [PACE Strategy Document]()
-+ [Code Notebook]()
++ [Machine Learning Code Notebook]()
 + [Executive Summary]()
