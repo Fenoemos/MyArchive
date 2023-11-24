@@ -103,4 +103,4 @@ ___
 + [Project Requirement Document]()
 + [Strategy Document]()
 
-**_Note:_** My response, based on my perspective, below may be different from the real and correct answer provided in the course.
+**_Note:_** My response, based on my perspective, may be different from the real and correct answer provided in the course.
