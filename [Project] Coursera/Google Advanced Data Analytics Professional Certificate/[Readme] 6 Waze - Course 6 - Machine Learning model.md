@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-22
 
-Last edit: 2023-11-22 (In-progress)
+Last edit: 2023-11-23 (In-progress)
 ***
 ## List of contents:
 - [Project background](#project-background)
@@ -44,17 +44,17 @@ A few days after the meeting, you receive an email from Emrick Larson, Waze’s 
 
 <sub>**Cc:** “Harriet Hadzic,” <ins>Harriet@waze</ins>; “Chidi Ga,” <ins>Chidi@waze</ins>; “Sylvester Esperanza,” <ins>Sylvester@Waze</ins>; “May Santner,” <ins>May@waze</ins>; “Ursula Sayo,” <ins>Ursula@waze</ins>
 
-Thank you for providing the details for the final phase of the prediction algorithm we have requested. I apologize for missing many of the weekly project meetings, but I’ve been keeping informed of your progress. We discussed in detail your proposal for building and testing the following models for prediction: random forest and XGBoost. We agree with this approach. 
+<sub>Thank you for providing the details for the final phase of the prediction algorithm we have requested. I apologize for missing many of the weekly project meetings, but I’ve been keeping informed of your progress. We discussed in detail your proposal for building and testing the following models for prediction: random forest and XGBoost. We agree with this approach. 
 
-Please go ahead with the creation of the algorithm. It would be very helpful if you could share what data indicators the algorithm is based on, and describe the confidence your team has in the model performance  
+<sub>Please go ahead with the creation of the algorithm. It would be very helpful if you could share what data indicators the algorithm is based on, and describe the confidence your team has in the model performance  
 
-Thank you for your great work,
+<sub>Thank you for your great work,
 
-Emrick Larson
+<sub>Emrick Larson
 
-Finance and Administration Department Head
+<sub>Finance and Administration Department Head
 
-Waze
+<sub>Waze
 
 <sub><ins>**Email from Harriet Hadzic, Director of Data Analysis**</ins>
 
@@ -64,21 +64,21 @@ Waze
 
 <sub>**Cc:** “Chidi Ga,” <ins>Chidi@waze</ins>
 
-Hello data pros!
+<sub>Hello data pros!
 
-Great work so far. The results of your analysis will help us make data-driven business decisions. 
+<sub>Great work so far. The results of your analysis will help us make data-driven business decisions. 
 
-Please build the models we discussed using the Waze user data. As you’re aware, you’ve already cleaned and run this data through a binomial logistic regression model, but you always need to validate your variables and data. So, please revisit the dataset.
+<sub>Please build the models we discussed using the Waze user data. As you’re aware, you’ve already cleaned and run this data through a binomial logistic regression model, but you always need to validate your variables and data. So, please revisit the dataset.
 
-Once complete, please send a draft of your executive summary to May and myself. Be sure to include the key info that leadership requested: a summary of the variables used to make the prediction, and an indication of how we can test the accuracy of the model. 
+<sub>Once complete, please send a draft of your executive summary to May and myself. Be sure to include the key info that leadership requested: a summary of the variables used to make the prediction, and an indication of how we can test the accuracy of the model. 
 
-I look forward to seeing what you build! 
+<sub>I look forward to seeing what you build! 
 
-Harriet Hadzic
+<sub>Harriet Hadzic
 
-Director of Data Analysis
+<sub>Director of Data Analysis
 
-Waze
+<sub>Waze
 ___
 ### My response
 + [PACE Strategy Document]()
