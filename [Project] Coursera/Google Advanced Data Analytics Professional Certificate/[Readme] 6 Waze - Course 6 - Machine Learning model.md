@@ -16,6 +16,8 @@ Last edit: 2023-11-25
   + [PACE Strategy Document](https://docs.google.com/document/d/10ESCbyCVlp4gVzyh8IuRwxKzxBOxQFZml6V4j4QWgFI/edit?usp=sharing)
   + [Machine Learning Code Notebook*](https://colab.research.google.com/drive/1doQJxAZ3ABYGbg_zcz0g9bcEyVjuwPBe?usp=sharing)
   + [Executive Summary](https://docs.google.com/presentation/d/1KnlAST8JpetdQ2vSfDl3jIm7tGNR-ZBkA-YHHz9Vd1A/edit?usp=sharing&resourcekey=0-L1_jD4mlV_HnYFhv2mgsNw)
+ 
+<sub>*Using Google Colab to save the notebook file because it cannot be saved to PDF file on Course Lab (500 : Internal Server Error)
 ___
 ### Project background
 Waze’s data team is near the end of the churn project. The following tasks are needed to complete the project:
@@ -83,5 +85,3 @@ ___
 + [PACE Strategy Document](https://docs.google.com/document/d/10ESCbyCVlp4gVzyh8IuRwxKzxBOxQFZml6V4j4QWgFI/edit?usp=sharing)
 + [Machine Learning Code Notebook*](https://colab.research.google.com/drive/1doQJxAZ3ABYGbg_zcz0g9bcEyVjuwPBe?usp=sharing)
 + [Executive Summary](https://docs.google.com/presentation/d/1KnlAST8JpetdQ2vSfDl3jIm7tGNR-ZBkA-YHHz9Vd1A/edit?usp=sharing&resourcekey=0-L1_jD4mlV_HnYFhv2mgsNw)
-
-<sub>*Using Google Colab to save the notebook file because it cannot be saved to PDF file on Course Lab (500 : Internal Server Error)
