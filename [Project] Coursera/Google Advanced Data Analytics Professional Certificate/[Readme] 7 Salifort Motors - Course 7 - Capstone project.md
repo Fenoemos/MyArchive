@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-26
 
-Last edit: 2023-11-26 (Not complete)
+Last edit: 2023-12-1
 ***
 ## List of contents:
 - [Capstone project scenario overview](#capstone-project-scenario-overview)
@@ -16,7 +16,7 @@ Last edit: 2023-11-26 (Not complete)
 - [My response](#my-response)
   + [PACE Strategy Document](https://docs.google.com/document/d/1HikwE6iaPq-l1QqwCOkufyXqMR7fBaCw6tBHZurbIEs/edit?usp=sharing)
   + [Executive Summary](https://docs.google.com/presentation/d/1S0_VquCWUjQn89zTvqf60f3SfxznCOzh_UDsK-nFg3Q/edit?usp=sharing&resourcekey=0-2QmVTTEaW_H6lpHUT6LztA)
-  + [Code Notebook]()
+  + [Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.pdf)
 ___
 ### Capstone project scenario overview
 #### About the company
@@ -46,4 +46,4 @@ ___
 ### My response
 + [PACE Strategy Document](https://docs.google.com/document/d/1HikwE6iaPq-l1QqwCOkufyXqMR7fBaCw6tBHZurbIEs/edit?usp=sharing)
 + [Executive Summary](https://docs.google.com/presentation/d/1S0_VquCWUjQn89zTvqf60f3SfxznCOzh_UDsK-nFg3Q/edit?usp=sharing&resourcekey=0-2QmVTTEaW_H6lpHUT6LztA)
-+ [Code Notebook]()
++ [Code Notebook](https://github.com/Fenoemos/MyArchive/blob/main/%5BProject%5D%20Coursera/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate/Other_file/Activity_%20Course%207%20Salifort%20Motors%20project%20lab.pdf)
