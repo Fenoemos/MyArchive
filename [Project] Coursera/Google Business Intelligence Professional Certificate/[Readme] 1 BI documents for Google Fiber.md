@@ -6,7 +6,7 @@ by [Phattharachai Maichin](https://www.linkedin.com/in/phattharachai-m/)
 
 Start date: 2023-11-22
 
-Last edit: 2023-11-22 (Not complete)
+Last edit: 2023-12-12 (Not complete)
 ***
 ## List of contents:
   - [Welcome to Google Fiber!](#welcome-to-google-fiber!)
